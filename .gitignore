@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+zamowienia_messy.csv
+zamowienia_clean.csv
+wartosc_zamowien_miesiecznie.png
